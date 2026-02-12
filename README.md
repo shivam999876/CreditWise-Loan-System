@@ -135,11 +135,10 @@ CreditWise-Loan-System/
 │   └── trained_model.pkl
 │
 ├── requirements.txt
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 
 ```bash
-git clone https://github.com/yourusername/CreditWise-Loan-System.git
+git clone https://github.com/shivam999876/CreditWise-Loan-System.git
 cd CreditWise-Loan-System
