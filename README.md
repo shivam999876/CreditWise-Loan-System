@@ -122,7 +122,7 @@ CreditWise_Loan_Approval.ipynb
 ```
 
 ### 📂 Project Structure
-
+```
 CreditWise-Loan-System/
 │
 ├── credit_wise.ipynb
