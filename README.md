@@ -122,19 +122,19 @@ CreditWise_Loan_Approval.ipynb
 ```
 
 ### 📂 Project Structure
-```
+
 CreditWise-Loan-System/
 │
-├── data/
-│   └── loan_data.csv
+├── credit_wise.ipynb
 │
-├── notebooks/
-│   └── CreditWise_Loan_Approval.ipynb
+├── loan_approval_data.xlsx
 │
-├── models/
-│   └── trained_model.pkl
+├── Problem Statement (Part-1).png
+│
+├── Problem Statement (Part-2).jpg
 │
 ├── requirements.txt
+│
 └── README.md
 ```
 
